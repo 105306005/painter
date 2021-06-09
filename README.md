@@ -7,6 +7,8 @@ This project is a Painter with Javascript.
 
 <img src="https://maggiepractice.s3.amazonaws.com/painter.png" width="600" />
 
+Website Demo✨: https://105306005.github.io/painter/
+
 ## Technologies
 
 Project is created with:
